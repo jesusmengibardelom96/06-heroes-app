@@ -1,9 +1,19 @@
 {
   "users": [
     {
-      "id": "1",
+      "id": 1,
       "usuario": "John Doe",
       "email": "john.due@gmail.com"
+    },
+    {
+      "id": 2,
+      "usuario": "Jane Doe",
+      "email": "jane.due@gmail.com"
+    },
+    {
+      "id": 3,
+      "usuario": "Yo Doe",
+      "email": "Yo.due@gmail.com"
     }
   ],
   "heroes": [
@@ -14,6 +24,14 @@
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
       "characters": "Bruce Wayne"
+    },
+    {
+      "id": "dc-superman",
+      "superhero": "Superman",
+      "publisher": "DC Comics",
+      "alter_ego": "Kal-El",
+      "first_appearance": "Action Comics #1",
+      "characters": "Kal-El"
     },
     {
       "id": "dc-flash",
